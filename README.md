@@ -11,9 +11,12 @@
 - ✨ Javascript && TypeScript
 
 ### - Hobbies : 
-- ✨ Gaming Addict [LOL,CS:GO,PUBG]
+- ✨ Gaming Addict [LOL,CS:GO,PUBG ] 
 - ✨ Food Lover
 
+<a href="https://steamcommunity.com/profiles/76561198427162470/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/jchhh912/jchhh912/blob/main/assets/steam.png" />
+</a>
 </br>
 </br>
 </br>
