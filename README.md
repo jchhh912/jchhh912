@@ -4,7 +4,7 @@
 
 ### - A small famous programmer, small to what extent, only I currently know myself.😎
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://5b0988e595225.cdn.sohucs.com/images/20171223/e0bb1b3300804de2a882e999b61fb2a6.jpeg">
 
 ### - Learning :
 - ✨ C#/.Net
