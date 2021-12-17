@@ -13,17 +13,14 @@
 ### - Hobbies : 
 - ✨ Gaming Addict [LOL,CS:GO,PUBG ] 
 - ✨ Food Lover
-
-<a href="https://steamcommunity.com/profiles/76561198427162470/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/jchhh912/jchhh912/blob/main/assets/steam.png" />
-</a>
 </br>
 </br>
 </br>
 
 🛠️&nbsp;**Languages  and Tools**
 
-<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />![steam](https://user-images.githubusercontent.com/54928439/146578559-7ad4e477-772c-4ea6-93e3-4ab953cd62d7.png)
+
 <img align="left" alt=".NET" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/dotnet.svg" />
 <img align="left" alt=".NET Core" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="SQL" width="40px" src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" />
@@ -39,6 +36,9 @@
 
 🔗&nbsp;**Connect with me   [![](https://img.shields.io/badge/-@jchhh912-%23181717?style=flat-square&logo=github)](https://github.com/jchhh912)**
 <p>
+  <a href="https://steamcommunity.com/profiles/76561198427162470/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/jchhh912/jchhh912/blob/main/assets/steam.png" />
+</a>
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. 
 
 
