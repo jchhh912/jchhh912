@@ -19,8 +19,6 @@
 
 🛠️&nbsp;**Languages  and Tools**
 
-<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />![steam](https://user-images.githubusercontent.com/54928439/146578559-7ad4e477-772c-4ea6-93e3-4ab953cd62d7.png)
-
 <img align="left" alt=".NET" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/dotnet.svg" />
 <img align="left" alt=".NET Core" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="SQL" width="40px" src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" />
