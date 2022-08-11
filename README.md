@@ -2,7 +2,7 @@
 
 ### About ME 💬 :
 
-### - Wild C# Programmer😶‍🌫️😶‍🌫️😶‍🌫️
+### -A Wild Programmer🙈🙉🙊
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://5b0988e595225.cdn.sohucs.com/images/20171223/e0bb1b3300804de2a882e999b61fb2a6.jpeg">
 
