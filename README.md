@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-🔗&nbsp;**Connect with me  
+🔗&nbsp;**Connect with me**  
 <p>
   <a href="https://steamcommunity.com/profiles/76561198427162470/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/jchhh912/jchhh912/blob/main/assets/steam.png" />
@@ -55,7 +55,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
  </p>
 
- [![](https://img.shields.io/badge/-@jchhh912-%23181717?style=flat-square&logo=github)](https://github.com/jchhh912)**
+[![](https://img.shields.io/badge/-@jchhh912-%23181717?style=flat-square&logo=github)](https://github.com/jchhh912)
 
 [website]: https://imnikitaokunev.github.io/
 [linkedin]: https://www.linkedin.com/in/imnikitaokunev/
